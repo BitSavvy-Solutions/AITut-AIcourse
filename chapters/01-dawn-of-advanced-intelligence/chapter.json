@@ -1,0 +1,35 @@
+{
+  "chapterId": "ch01",
+  "title": "Dawn of the Era of Advanced Intelligence",
+  "order": 1,
+  "duration": "1 week",
+  "objectives": [
+    "Understand what Artificial Intelligence is",
+    "Recognize the different types of AI systems",
+    "Learn how to safely access and use modern AI tools",
+    "Understand the role of APIs and AI interfaces"
+  ],
+  "materials": [
+    {
+      "materialId": "mat01-01",
+      "order": 1,
+      "title": "What Exactly is AI?",
+      "type": "reading",
+      "path": "materials/01-what-is-ai.md"
+    },
+    {
+      "materialId": "mat01-02",
+      "order": 2,
+      "title": "The Different Kinds of AI: Text, Image, Audio, and Video",
+      "type": "reading",
+      "path": "materials/02-types-of-ai.md"
+    },
+    {
+      "materialId": "mat01-03",
+      "order": 3,
+      "title": "How to Access AI Safely and Affordably: APIs and Interfaces",
+      "type": "reading",
+      "path": "materials/03-accessing-ai.md"
+    }
+  ]
+}

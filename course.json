@@ -1,0 +1,60 @@
+{
+  "courseId": "ai-fundamentals-2026",
+  "title": "AI Fundamentals and Applied Intelligence",
+  "description": "A comprehensive introduction to Artificial Intelligence, covering LLMs, prompt engineering, image and audio AI, agents, workflows, and AI ethics.",
+  "version": "1.0.0",
+  "provider": "CodeBlossom",
+  "contact": "info@code-blossom.com",
+  "lastUpdated": "2026-06-15",
+  "chapters": [
+    {
+      "chapterId": "ch01",
+      "order": 1,
+      "title": "Dawn of the Era of Advanced Intelligence",
+      "duration": "TBD",
+      "path": "chapters/01-dawn-of-advanced-intelligence"
+    },
+    {
+      "chapterId": "ch02",
+      "order": 2,
+      "title": "AI Learns to Talk - Text AI and LLMs",
+      "duration": "TBD",
+      "path": "chapters/02-text-ai-and-llms"
+    },
+    {
+      "chapterId": "ch03",
+      "order": 3,
+      "title": "Mastering the AI Brain",
+      "duration": "TBD",
+      "path": "chapters/03-mastering-the-ai-brain"
+    },
+    {
+      "chapterId": "ch04",
+      "order": 4,
+      "title": "Visual and Audio AI Interfaces",
+      "duration": "TBD",
+      "path": "chapters/04-visual-and-audio-ai"
+    },
+    {
+      "chapterId": "ch05",
+      "order": 5,
+      "title": "Prompt Engineering",
+      "duration": "TBD",
+      "path": "chapters/05-prompt-engineering"
+    },
+    {
+      "chapterId": "ch06",
+      "order": 6,
+      "title": "Chatbots, Workflows, and Agents",
+      "duration": "TBD",
+      "path": "chapters/06-chatbots-workflows-agents"
+    },
+    {
+      "chapterId": "ch07",
+      "order": 7,
+      "title": "Ethics of AI",
+      "duration": "TBD",
+      "path": "chapters/07-ai-ethics"
+    }
+  ]
+}
