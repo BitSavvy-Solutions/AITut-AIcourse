@@ -20,14 +20,14 @@
     {
       "materialId": "mat01-02",
       "order": 2,
-      "title": "The Different Kinds of AI: Text, Image, Audio, and Video",
+      "title": "The Different Kinds of AI",
       "type": "reading",
       "path": "materials/02-types-of-ai.md"
     },
     {
       "materialId": "mat01-03",
       "order": 3,
-      "title": "How to Access AI Safely and Affordably: APIs and Interfaces",
+      "title": "How to Access AI Safely and Fairly Cheaply",
       "type": "reading",
       "path": "materials/03-accessing-ai.md"
     }
