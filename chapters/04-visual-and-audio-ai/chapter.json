@@ -1,0 +1,41 @@
+{
+  "chapterId": "ch04",
+  "title": "Visual and Audio AI Interfaces",
+  "order": 4,
+  "duration": "1 week",
+  "objectives": [
+    "Understand image AI",
+    "Explore video generation",
+    "Learn audio AI tools"
+  ],
+  "materials": [
+    {
+      "materialId": "mat04-01",
+      "order": 1,
+      "title": "Introduction to Image AI",
+      "type": "reading",
+      "path": "materials/01-image-ai.md"
+    },
+    {
+      "materialId": "mat04-02",
+      "order": 2,
+      "title": "Image Generation Tools",
+      "type": "reading",
+      "path": "materials/02-image-generation-tools.md"
+    },
+    {
+      "materialId": "mat04-03",
+      "order": 3,
+      "title": "Video AI",
+      "type": "reading",
+      "path": "materials/03-video-ai.md"
+    },
+    {
+      "materialId": "mat04-04",
+      "order": 4,
+      "title": "Audio AI",
+      "type": "reading",
+      "path": "materials/04-audio-ai.md"
+    }
+  ]
+}

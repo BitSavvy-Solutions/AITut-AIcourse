@@ -1,0 +1,41 @@
+{
+  "chapterId": "ch06",
+  "title": "Chatbots, Workflows and Agents",
+  "order": 6,
+  "duration": "1 week",
+  "objectives": [
+    "Understand chatbot architecture",
+    "Learn workflow automation",
+    "Understand AI agents"
+  ],
+  "materials": [
+    {
+      "materialId": "mat06-01",
+      "order": 1,
+      "title": "Understanding Chatbot Workflows",
+      "type": "reading",
+      "path": "materials/01-chatbot-workflows.md"
+    },
+    {
+      "materialId": "mat06-02",
+      "order": 2,
+      "title": "Building Simple Chatbots",
+      "type": "reading",
+      "path": "materials/02-building-chatbots.md"
+    },
+    {
+      "materialId": "mat06-03",
+      "order": 3,
+      "title": "What Are AI Agents?",
+      "type": "reading",
+      "path": "materials/03-what-are-agents.md"
+    },
+    {
+      "materialId": "mat06-04",
+      "order": 4,
+      "title": "Building AI Agents",
+      "type": "reading",
+      "path": "materials/04-building-agents.md"
+    }
+  ]
+}

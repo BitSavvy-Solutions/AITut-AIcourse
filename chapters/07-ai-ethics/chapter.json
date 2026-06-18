@@ -1,0 +1,41 @@
+{
+  "chapterId": "ch07",
+  "title": "Ethics of AI",
+  "order": 7,
+  "duration": "1 week",
+  "objectives": [
+    "Understand AI ethics",
+    "Recognize bias and privacy concerns",
+    "Learn responsible AI practices"
+  ],
+  "materials": [
+    {
+      "materialId": "mat07-01",
+      "order": 1,
+      "title": "AI Bias",
+      "type": "reading",
+      "path": "materials/01-ai-bias.md"
+    },
+    {
+      "materialId": "mat07-02",
+      "order": 2,
+      "title": "Privacy and Security",
+      "type": "reading",
+      "path": "materials/02-privacy-and-security.md"
+    },
+    {
+      "materialId": "mat07-03",
+      "order": 3,
+      "title": "Responsible AI",
+      "type": "reading",
+      "path": "materials/03-responsible-ai.md"
+    },
+    {
+      "materialId": "mat07-04",
+      "order": 4,
+      "title": "The Future of AI",
+      "type": "reading",
+      "path": "materials/04-future-of-ai.md"
+    }
+  ]
+}

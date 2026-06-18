@@ -1,0 +1,41 @@
+{
+  "chapterId": "ch05",
+  "title": "Prompt Engineering",
+  "order": 5,
+  "duration": "1 week",
+  "objectives": [
+    "Learn prompt engineering fundamentals",
+    "Use one-shot prompts",
+    "Use few-shot prompting techniques"
+  ],
+  "materials": [
+    {
+      "materialId": "mat05-01",
+      "order": 1,
+      "title": "Talking to AI Effectively",
+      "type": "reading",
+      "path": "materials/01-talking-to-ai.md"
+    },
+    {
+      "materialId": "mat05-02",
+      "order": 2,
+      "title": "One-Shot Prompting",
+      "type": "reading",
+      "path": "materials/02-one-shot-prompting.md"
+    },
+    {
+      "materialId": "mat05-03",
+      "order": 3,
+      "title": "Multi-Shot Prompting",
+      "type": "reading",
+      "path": "materials/03-multi-shot-prompting.md"
+    },
+    {
+      "materialId": "mat05-04",
+      "order": 4,
+      "title": "Common Prompt Patterns",
+      "type": "reading",
+      "path": "materials/04-prompt-patterns.md"
+    }
+  ]
+}
